@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Bryan, and I am a self-taught Back-end Developer and Web Developer currently studying Computer Science at Roanoke College.
+My name is Bryan, and I am a self-taught full-stack developer and software engineer currently studying Computer Science at Austin Peay State University.
 
-I frequently work with Node.js, front (HTML/CSS/JS/Twig) and back-end development (PHP/Slim/MySQL), React / React Native, and C++.
+I like TypeScript.
 
 You can reach me by email ([bryan@pikaard.com](mailto:bryan@pikaard.com)) or Discord (HyperCoder#2975).
 
