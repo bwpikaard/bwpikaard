@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Bryan, and I am a self-taught full-stack developer and software engineer currently studying Computer Science at Austin Peay State University.
+My name is Bryan. I am a full-time Software Engineer with a Bachelors of Computer Science with a concentration in Software Engineering.
 
 I like TypeScript.
 
-You can reach me by email ([bryan@pikaard.com](mailto:bryan@pikaard.com)) or Discord (HyperCoder#2975).
+You can reach me by email ([bryan@pikaard.com](mailto:bryan@pikaard.com)).
 
 <table>
   <tr>
