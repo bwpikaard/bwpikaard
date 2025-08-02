@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bryan. I am a full-time Software Engineer with a Bachelors B.S. Computer Science with a concentration in Software Engineering.
+My name is Bryan. I am a full-time Software Engineer with a B.S. Computer Science with a concentration in Software Engineering.
 
 I like TypeScript.
 
