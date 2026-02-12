@@ -4,7 +4,7 @@ My name is Bryan. I am a full-time Software Engineer with a B.S. Computer Scienc
 
 I like TypeScript.
 
-You can reach me by email ([bryan@pikaard.com](mailto:bryan@pikaard.com)).
+You can reach me by email ([me@itsbryan.dev](mailto:me@itsbryan.dev)).
 
 <table>
   <tr>
