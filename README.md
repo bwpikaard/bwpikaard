@@ -1,18 +1,5 @@
 ### Hi there 👋
 
-My name is Bryan. I am a full-time Software Engineer with a B.S. Computer Science with a concentration in Software Engineering.
-
-I like TypeScript.
+My name is Bryan. I'm a Senior Software Engineer at MapLarge.
 
 You can reach me by email ([me@itsbryan.dev](mailto:me@itsbryan.dev)).
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/?username=bwpikaard&count_private=true&hide_border=true&hide_title=true&show_icons=true"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwpikaard&hide_border=true&layout=compact"/>
-    </td>
-  </tr>
-</table>
